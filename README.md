@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Nigar Alizada
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Geist&weight=700&size=32&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=Data+Analyst;Microsoft+%26+AWS+Cloud+Certified;Power+BI+%7C+Python+%7C+SQL;Data+Science+%26+ML+Practitioner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Geist&weight=700&size=32&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=Data+Scientist;ML+%7C+DL+%7C+NLP+%7C+GenAI;Agentic+AI+Builder;AWS+Certified" alt="Typing SVG" />
 
-### 🚀 Turning data into decisions — certified, shipped, and deployed
+### 🚀 Turning research into production — models that ship, not just notebooks
 
 <br/>
 
@@ -27,12 +27,13 @@
 
 ### Specialized In
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-Expert-FF6F00?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data_Science-Expert-FF6F00?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-EE4C2C?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Cloud](https://img.shields.io/badge/Microsoft_%26_AWS_Certified-brightgreen?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Advanced-8B5CF6?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Proficient-00C7B7?style=flat-square)
-![RAG Systems](https://img.shields.io/badge/RAG-Building-58A6FF?style=flat-square)
+![GenAI](https://img.shields.io/badge/GenAI-Advanced-F59E0B?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Building-brightgreen?style=flat-square)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -50,7 +51,7 @@
 |-----------|----------------|--------------|-------------|---------|
 | **💳 Credit Risk Model** | Binary classification for credit risk assessment | Scikit-learn • XGBoost • Jupyter | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/Credit-Risk-Model) |
 | **🏠 Real Estate Assistant** | AI-powered real estate query assistant | Python • LLMs • RAG | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/Real-Estate-Assistant-) |
-| **🏥 Healthcare Premium Prediction** | Health insurance cost prediction using ML | Python • Scikit-learn • Apache License | https://nigaralizada9-healthcare-premium-prediction-main-l0njgr.streamlit.app/| [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/Healthcare-Premium-Prediction) |
+| **🏥 Healthcare Premium Prediction** | Health insurance cost prediction using ML | Python • Scikit-learn • Apache License | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://nigaralizada9-healthcare-premium-prediction-main-l0njgr.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/Healthcare-Premium-Prediction) |
 | **💸 Expense Tracking App** | Full-stack expense manager with interactive analytics | Python • Streamlit • FastAPI | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/expense-tracking) |
 | **🎯 Recommendation System** | Personalized recommendation engine | Python • Collaborative Filtering | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/recommendation_system) |
 | **🔍 Fraud Detection** | Classification model for detecting fraudulent transactions | Python • Jupyter • ML | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/nigaralizada9/Fraud_Detection) |
